@@ -1,2 +1,1 @@
-# sibusiso.github.io
-Personal website
+http://syllabus.africacode.net/projects/first-personal-website/
